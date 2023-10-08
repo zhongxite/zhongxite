@@ -16,7 +16,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
 
-![AdicherlaVenkataSai github stats](https://github-readme-stats.vercel.app/api?username=zhongxite&show_icons=true)
+![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=zhongxite&show_icons=true&theme=tokyonight)
 
 
 
