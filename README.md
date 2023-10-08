@@ -1,5 +1,6 @@
-<h1>Hi siyixiong here ...</h1>
-<img align='right' src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="230">
+<h1>Hi zhongxite here ...</h1>
+<img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGMwNXY0OG9obXprcGI2bG82ampxdDgyYmtvbzB2OHFxem5panJheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bYf3qVHvM7Y5coFO7l/giphy.gif" width="230">
+### https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif
 
 
 - 🔭 **I’m currently working and exploring the areas of back-end.**
